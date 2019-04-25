@@ -1,4 +1,8 @@
 123
 123
 123
+<<<<<<< HEAD
 456:from master branch
+=======
+456:from wang branch
+>>>>>>> wang
